@@ -1,0 +1,16 @@
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\bin\Debug\net5.0\VaribaleLesson.exe
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\bin\Debug\net5.0\VaribaleLesson.deps.json
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\bin\Debug\net5.0\VaribaleLesson.runtimeconfig.json
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\bin\Debug\net5.0\VaribaleLesson.runtimeconfig.dev.json
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\bin\Debug\net5.0\VaribaleLesson.dll
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\bin\Debug\net5.0\ref\VaribaleLesson.dll
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\bin\Debug\net5.0\VaribaleLesson.pdb
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\obj\Debug\net5.0\VaribaleLesson.csprojAssemblyReference.cache
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\obj\Debug\net5.0\VaribaleLesson.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\obj\Debug\net5.0\VaribaleLesson.AssemblyInfoInputs.cache
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\obj\Debug\net5.0\VaribaleLesson.AssemblyInfo.cs
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\obj\Debug\net5.0\VaribaleLesson.csproj.CoreCompileInputs.cache
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\obj\Debug\net5.0\VaribaleLesson.dll
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\obj\Debug\net5.0\ref\VaribaleLesson.dll
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\obj\Debug\net5.0\VaribaleLesson.pdb
+D:\C#-Course\NguyenTrungHau\VaribaleLesson\VaribaleLesson\obj\Debug\net5.0\VaribaleLesson.genruntimeconfig.cache

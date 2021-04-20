@@ -1,0 +1,16 @@
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\obj\Debug\net5.0\VariableLesson-Example.csprojAssemblyReference.cache
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\obj\Debug\net5.0\VariableLesson-Example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\obj\Debug\net5.0\VariableLesson-Example.AssemblyInfoInputs.cache
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\obj\Debug\net5.0\VariableLesson-Example.AssemblyInfo.cs
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\obj\Debug\net5.0\VariableLesson-Example.csproj.CoreCompileInputs.cache
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\bin\Debug\net5.0\VariableLesson-Example.exe
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\bin\Debug\net5.0\VariableLesson-Example.deps.json
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\bin\Debug\net5.0\VariableLesson-Example.runtimeconfig.json
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\bin\Debug\net5.0\VariableLesson-Example.runtimeconfig.dev.json
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\bin\Debug\net5.0\VariableLesson-Example.dll
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\bin\Debug\net5.0\ref\VariableLesson-Example.dll
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\bin\Debug\net5.0\VariableLesson-Example.pdb
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\obj\Debug\net5.0\VariableLesson-Example.dll
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\obj\Debug\net5.0\ref\VariableLesson-Example.dll
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\obj\Debug\net5.0\VariableLesson-Example.pdb
+D:\C#-Course\NguyenTrungHau\VariableLesson-Example\VariableLesson-Example\obj\Debug\net5.0\VariableLesson-Example.genruntimeconfig.cache

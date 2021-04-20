@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "VariableLesson-Example/1.0.0": {
+        "runtime": {
+          "VariableLesson-Example.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VariableLesson-Example/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

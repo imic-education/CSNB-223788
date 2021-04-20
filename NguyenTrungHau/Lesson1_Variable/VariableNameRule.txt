@@ -1,0 +1,8 @@
+1. Camel Rule
+- Lower case the first word, Upper case the first letter of the rest of variable name.
+- Use for name the private, protected varibale, method parameter.
+Ex: haroldNguyen, imicCenter,...
+
+2. Pascal Rule
+- Upper case the first leter all the word of variable name.
+- Use for name the other element such as: interface, enum, event, method,...
